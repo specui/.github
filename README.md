@@ -1,1 +1,3 @@
-# .github
+# SpecUI
+
+> Build UIs with Specs
